@@ -21,7 +21,7 @@ function Home() {
           </div>
 
           <h1 className="text-3xl font-bold">
-            Equity<span className="text-cyan-400">AI</span>
+            Fair<span className="text-cyan-400">Write</span>
           </h1>
 
         </div>

@@ -92,9 +92,9 @@ function Dashboard() {
 
           <h1 className="text-2xl font-bold">
 
-            Equity
+            Fair
             <span className="text-cyan-400">
-              AI
+              Write
             </span>
 
           </h1>
@@ -152,7 +152,7 @@ function Dashboard() {
             </h1>
 
             <p className="text-gray-400 mt-3">
-              Welcome back to EquityAI analytics
+              Welcome back to FairWrite analytics
             </p>
 
           </div>

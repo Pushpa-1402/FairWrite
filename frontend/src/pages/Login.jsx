@@ -78,7 +78,7 @@ localStorage.setItem(
           </div>
 
           <h1 className="text-4xl font-bold">
-            Equity<span className="text-cyan-400">AI</span>
+            Fair<span className="text-cyan-400">Write</span>
           </h1>
 
           <p className="text-gray-400 mt-3 text-center">
@@ -161,7 +161,7 @@ localStorage.setItem(
 
         {/* Footer */}
         <p className="text-center text-gray-500 mt-8">
-          Powered by AI Technology • EquityAI
+          Powered by AI Technology • FairWrite
         </p>
 
       </div>

@@ -152,9 +152,9 @@ function Profile() {
 
           <h1 className="text-2xl font-bold">
 
-            Equity
+            Fair
             <span className="text-cyan-400">
-              AI
+              Write
             </span>
 
           </h1>

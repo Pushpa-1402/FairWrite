@@ -96,7 +96,7 @@ function Signup() {
 
         <p className="text-gray-400 text-center mt-3">
 
-          Join EquityAI today
+          Join FairWrite today
 
         </p>
 

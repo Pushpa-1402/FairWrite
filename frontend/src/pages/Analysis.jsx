@@ -136,7 +136,7 @@ function Analysis() {
 
     link.href = url;
 
-    link.download = "EquityAI_Report.pdf";
+    link.download = "FairWrite_Report.pdf";
 
     document.body.appendChild(link);
 

@@ -216,7 +216,7 @@ def change_password(data: ChangePasswordRequest):
 def home():
 
     return {
-        "message": "EquityAI Backend Running Successfully"
+        "message": "FairWrite Backend Running Successfully"
     }
 
 
@@ -496,7 +496,7 @@ def export_pdf(data: ExportPdfRequest):
     content = [
 
         Paragraph(
-            "EquityAI Analysis Report",
+            "FairWrite Analysis Report",
             styles["Title"]
         ),
 
@@ -534,6 +534,6 @@ def export_pdf(data: ExportPdfRequest):
 
     return FileResponse(
         temp_file.name,
-        filename="EquityAI_Report.pdf",
+        filename="FairWrite_Report.pdf",
         media_type="application/pdf"
     )    
